@@ -1,3 +1,24 @@
+Metadata-Version: 2.4
+Name: pyoverflow3
+Version: 1.0.1
+Summary: A Python3 Version of pyoverflow library used for quick debugging of errors
+Home-page: https://github.com/SpaciousCoder78/pyoverflow3
+Author: Aryan Karamtoth
+Author-email: Aryan Karamtoth <aryankmmiv@outlook.com>
+License: MIT License
+Project-URL: Homepage, https://github.com/SpaciousCoder78/pyoverflow3
+Project-URL: Issues, https://github.com/SpaciousCoder78/pyoverflow3/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: googlesearch-python
+Dynamic: author
+Dynamic: home-page
+Dynamic: license-file
+
 # pyoverflow3
 Complete Rewrite of pyoverflow library from Python 2 to Python 3
 

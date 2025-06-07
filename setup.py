@@ -100,7 +100,7 @@ Once an error gets generated, the library gets called and it instantly shows you
         "Programming Language :: Python :: 3.12",
         "Operating System :: OS Independent"
     ],
-    packages=["pramanpatram"],
+    packages=["pyoverflow3"],
     include_package_data=True,
     install_requires=["googlesearch-python"]
 )

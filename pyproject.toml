@@ -1,6 +1,6 @@
 [project]
 name = "pyoverflow3"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Aryan Karamtoth", email="aryankmmiv@outlook.com" },
 ]
