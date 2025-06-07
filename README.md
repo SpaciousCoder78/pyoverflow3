@@ -3,7 +3,7 @@ Complete Rewrite of pyoverflow library from Python 2 to Python 3
 
 A Python Library for Quick Debugging of Errors using StackOverflow
     
-    A complete rewritten library in Python3 based on pyoverflow library which was based on Python2
+
 
 ## Supported Features
 - Quick Search of errors on StackOverflow for Python
@@ -26,7 +26,7 @@ $ pip install pyoverflow3
 Import the package
 
 ```py
-import pyoverflow3
+from pyoverflow3.pyoverflow3 import pyoverflow3
 ```
 Create a `.py` file and include try-except block where you may expect an error and pass the error and number of solutions into `pyoverflow3.submit_error(err_msg,no_solutions)`
 
@@ -46,7 +46,7 @@ Once an error gets generated, the library gets called and it instantly shows you
     ```py
     #!/usr/bin/env python
 
-     import pyoverflow3
+     from pyoverflow3.pyoverflow3 import pyoverflow3
 
     a = int(input("Enter first number"))
 

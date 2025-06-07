@@ -102,5 +102,5 @@ Once an error gets generated, the library gets called and it instantly shows you
     ],
     packages=["pyoverflow3"],
     include_package_data=True,
-    install_requires=["googlesearch-python"]
+    install_requires=["google","beautifulsoup4"]
 )
