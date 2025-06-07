@@ -1,0 +1,24 @@
+[project]
+name = "pyoverflow3"
+version = "1.0.0"
+authors = [
+  { name="Aryan Karamtoth", email="aryankmmiv@outlook.com" },
+]
+description = "A Python3 Version of pyoverflow library used for quick debugging of errors"
+readme = "README.md"
+requires-python = ">=3.12"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "googlesearch-python"
+]
+
+[project.urls]
+Homepage = "https://github.com/SpaciousCoder78/pyoverflow3"
+Issues = "https://github.com/SpaciousCoder78/pyoverflow3/issues"
+
+[project.license]
+text = "MIT License"
